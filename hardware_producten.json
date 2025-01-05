@@ -48,5 +48,10 @@
         "productnaam": "Logitech MX Master 3 Muis",
         "aantal": 25,
         "prijs": 121.5
+        },
+    {
+        "productnaam": "ASUS Maze 78 ID",
+        "aantal": 10,
+        "prijs": 450
     }
 ]
