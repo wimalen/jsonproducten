@@ -1,0 +1,57 @@
+[
+    {
+        "streek": "Antwerpen",
+        "temperatuur": 18.5,
+        "voorspellingen": [
+            19.0,
+            18.3,
+            17.8,
+            19.5,
+            20.0
+        ]
+    },
+    {
+        "streek": "Brugge",
+        "temperatuur": 17.2,
+        "voorspellingen": [
+            16.5,
+            17.0,
+            18.0,
+            18.5,
+            19.0
+        ]
+    },
+    {
+        "streek": "Gent",
+        "temperatuur": 19.0,
+        "voorspellingen": [
+            19.5,
+            20.0,
+            20.5,
+            21.0,
+            21.5
+        ]
+    },
+    {
+        "streek": "Leuven",
+        "temperatuur": 20.1,
+        "voorspellingen": [
+            20.0,
+            19.8,
+            19.5,
+            20.2,
+            21.0
+        ]
+    },
+    {
+        "streek": "Brussel",
+        "temperatuur": 18.9,
+        "voorspellingen": [
+            19.0,
+            19.5,
+            20.0,
+            20.5,
+            21.0
+        ]
+    }
+]
