@@ -1,0 +1,82 @@
+[
+    {
+        "streek": "Antwerpen",
+        "temperatuur": 18.6
+    },
+    {
+        "streek": "Brugge",
+        "temperatuur": 28.3
+    },
+    {
+        "streek": "Gent",
+        "temperatuur": 11.4
+    },
+    {
+        "streek": "Leuven",
+        "temperatuur": 1.5
+    },
+    {
+        "streek": "Brussel",
+        "temperatuur": 22.9
+    },
+    {
+        "streek": "Kortrijk",
+        "temperatuur": 1.6
+    },
+    {
+        "streek": "Mechelen",
+        "temperatuur": 6.9
+    },
+    {
+        "streek": "Hasselt",
+        "temperatuur": -5.0
+    },
+    {
+        "streek": "Oostende",
+        "temperatuur": 10.3
+    },
+    {
+        "streek": "Sint-Niklaas",
+        "temperatuur": 8.1
+    },
+    {
+        "streek": "Turnhout",
+        "temperatuur": 16.4
+    },
+    {
+        "streek": "Roeselare",
+        "temperatuur": -1.2
+    },
+    {
+        "streek": "Aalst",
+        "temperatuur": 13.4
+    },
+    {
+        "streek": "Genk",
+        "temperatuur": 7.9
+    },
+    {
+        "streek": "Ieper",
+        "temperatuur": 22.4
+    },
+    {
+        "streek": "Dendermonde",
+        "temperatuur": 9.7
+    },
+    {
+        "streek": "Vilvoorde",
+        "temperatuur": 22.7
+    },
+    {
+        "streek": "Lokeren",
+        "temperatuur": 18.7
+    },
+    {
+        "streek": "Heist-op-den-Berg",
+        "temperatuur": 4.8
+    },
+    {
+        "streek": "Tienen",
+        "temperatuur": 0.1
+    }
+]
