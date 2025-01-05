@@ -1,0 +1,52 @@
+[
+    {
+        "productnaam": "Processor Intel i7-12700K",
+        "aantal": 15,
+        "prijs": 349.99
+    },
+    {
+        "productnaam": "GeForce RTX 3060 Ti",
+        "aantal": 8,
+        "prijs": 399.99
+    },
+    {
+        "productnaam": "Kingston DDR4 16GB RAM",
+        "aantal": 20,
+        "prijs": 79.99
+    },
+    {
+        "productnaam": "Samsung 970 EVO 1TB SSD",
+        "aantal": 12,
+        "prijs": 129.99
+    },
+    {
+        "productnaam": "Corsair RM850x PSU",
+        "aantal": 5,
+        "prijs": 129.99
+    },
+    {
+        "productnaam": "ASUS ROG Strix Z690 Moederbord",
+        "aantal": 7,
+        "prijs": 299.99
+    },
+    {
+        "productnaam": "Noctua NH-D15 CPU-koeler",
+        "aantal": 10,
+        "prijs": 89.99
+    },
+    {
+        "productnaam": "WD Black 4TB HDD",
+        "aantal": 6,
+        "prijs": 159.99
+    },
+    {
+        "productnaam": "Cooler Master H500 Case",
+        "aantal": 9,
+        "prijs": 149.99
+    },
+    {
+        "productnaam": "Logitech MX Master 3 Muis",
+        "aantal": 25,
+        "prijs": 99.99
+    }
+]
