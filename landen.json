@@ -1,0 +1,182 @@
+[
+    {
+        "land": "België",
+        "hoofdstad": "Brussel",
+        "inwoners": 11.6,
+        "gemiddelde_temperatuur": 10.5
+    },
+    {
+        "land": "Nederland",
+        "hoofdstad": "Amsterdam",
+        "inwoners": 17.5,
+        "gemiddelde_temperatuur": 11.0
+    },
+    {
+        "land": "Duitsland",
+        "hoofdstad": "Berlijn",
+        "inwoners": 83.2,
+        "gemiddelde_temperatuur": 9.5
+    },
+    {
+        "land": "Frankrijk",
+        "hoofdstad": "Parijs",
+        "inwoners": 67.8,
+        "gemiddelde_temperatuur": 11.7
+    },
+    {
+        "land": "Italië",
+        "hoofdstad": "Rome",
+        "inwoners": 59.1,
+        "gemiddelde_temperatuur": 13.4
+    },
+    {
+        "land": "Spanje",
+        "hoofdstad": "Madrid",
+        "inwoners": 47.4,
+        "gemiddelde_temperatuur": 15.0
+    },
+    {
+        "land": "Portugal",
+        "hoofdstad": "Lissabon",
+        "inwoners": 10.2,
+        "gemiddelde_temperatuur": 16.2
+    },
+    {
+        "land": "Verenigd Koninkrijk",
+        "hoofdstad": "Londen",
+        "inwoners": 68.2,
+        "gemiddelde_temperatuur": 9.3
+    },
+    {
+        "land": "Zweden",
+        "hoofdstad": "Stockholm",
+        "inwoners": 10.4,
+        "gemiddelde_temperatuur": 6.1
+    },
+    {
+        "land": "Noorwegen",
+        "hoofdstad": "Oslo",
+        "inwoners": 5.4,
+        "gemiddelde_temperatuur": 5.9
+    },
+    {
+        "land": "Denemarken",
+        "hoofdstad": "Kopenhagen",
+        "inwoners": 5.8,
+        "gemiddelde_temperatuur": 8.5
+    },
+    {
+        "land": "Finland",
+        "hoofdstad": "Helsinki",
+        "inwoners": 5.5,
+        "gemiddelde_temperatuur": 5.2
+    },
+    {
+        "land": "Oostenrijk",
+        "hoofdstad": "Wenen",
+        "inwoners": 8.9,
+        "gemiddelde_temperatuur": 8.7
+    },
+    {
+        "land": "Zwitserland",
+        "hoofdstad": "Bern",
+        "inwoners": 8.6,
+        "gemiddelde_temperatuur": 7.4
+    },
+    {
+        "land": "Griekenland",
+        "hoofdstad": "Athene",
+        "inwoners": 10.3,
+        "gemiddelde_temperatuur": 17.0
+    },
+    {
+        "land": "Turkije",
+        "hoofdstad": "Ankara",
+        "inwoners": 85.3,
+        "gemiddelde_temperatuur": 13.0
+    },
+    {
+        "land": "Polen",
+        "hoofdstad": "Warschau",
+        "inwoners": 38.1,
+        "gemiddelde_temperatuur": 8.2
+    },
+    {
+        "land": "Tsjechië",
+        "hoofdstad": "Praag",
+        "inwoners": 10.7,
+        "gemiddelde_temperatuur": 8.8
+    },
+    {
+        "land": "Hongarije",
+        "hoofdstad": "Boedapest",
+        "inwoners": 9.7,
+        "gemiddelde_temperatuur": 10.6
+    },
+    {
+        "land": "Roemenië",
+        "hoofdstad": "Boekarest",
+        "inwoners": 19.3,
+        "gemiddelde_temperatuur": 10.4
+    },
+    {
+        "land": "Bulgarije",
+        "hoofdstad": "Sofia",
+        "inwoners": 6.9,
+        "gemiddelde_temperatuur": 11.0
+    },
+    {
+        "land": "Rusland",
+        "hoofdstad": "Moskou",
+        "inwoners": 146.2,
+        "gemiddelde_temperatuur": 5.8
+    },
+    {
+        "land": "China",
+        "hoofdstad": "Beijing",
+        "inwoners": 1411.8,
+        "gemiddelde_temperatuur": 9.7
+    },
+    {
+        "land": "India",
+        "hoofdstad": "New Delhi",
+        "inwoners": 1412.6,
+        "gemiddelde_temperatuur": 24.0
+    },
+    {
+        "land": "Japan",
+        "hoofdstad": "Tokio",
+        "inwoners": 125.7,
+        "gemiddelde_temperatuur": 12.9
+    },
+    {
+        "land": "Australië",
+        "hoofdstad": "Canberra",
+        "inwoners": 25.7,
+        "gemiddelde_temperatuur": 21.8
+    },
+    {
+        "land": "Brazilië",
+        "hoofdstad": "Brasilia",
+        "inwoners": 214.3,
+        "gemiddelde_temperatuur": 24.7
+    },
+    {
+        "land": "Verenigde Staten",
+        "hoofdstad": "Washington D.C.",
+        "inwoners": 331.9,
+        "gemiddelde_temperatuur": 13.0
+    },
+    {
+        "land": "Canada",
+        "hoofdstad": "Ottawa",
+        "inwoners": 38.2,
+        "gemiddelde_temperatuur": -5.4
+    },
+    {
+        "land": "Argentinië",
+        "hoofdstad": "Buenos Aires",
+        "inwoners": 45.8,
+        "gemiddelde_temperatuur": 15.4
+    }
+]
